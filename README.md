@@ -24,14 +24,14 @@ fun_fact: I turn coffee into code ☕ → 💻
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:ryharofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="tranlephihoang@gmail.com">
+    <img src="https://img.shields.io/badge/tranlephihoang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/rizkihartawan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rizki_Hartawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tranlephihoang/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tran-Le-Phi-Hoang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/RyHarJr">
-    <img src="https://img.shields.io/badge/GitHub-RyHarJr-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/RyuuTran">
+    <img src="https://img.shields.io/badge/GitHub-RyuuTran-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
