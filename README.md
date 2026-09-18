@@ -11,11 +11,10 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
 
 ```yaml
-name: Ahmad Rizki Hartawan
-location: Indonesia 🇮🇩
-education: Sistem Informasi | Universitas Multi Data Palembang
-semester: 4
-focus: Full-Stack Web Development & WhatsApp Bot
+name: Tran Le Phi Hoang  
+location: VietNam
+education: FPT University DaNang | DaNang Campus
+focus: Full-Stack Web Development 
 currently_learning: Next.js, TypeScript, System Architecture
 fun_fact: I turn coffee into code ☕ → 💻
 ```
