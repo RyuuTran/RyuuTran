@@ -28,16 +28,11 @@ fun_fact: I turn coffee into code ☕ → 💻
     <img src="https://img.shields.io/badge/tranlephihoang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/tranlephihoang/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tran-Le-Phi-Hoang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-TranLePhiHoang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/RyuuTran">
     <img src="https://img.shields.io/badge/GitHub-RyuuTran-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
 </p>
 
 <!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
